@@ -1,0 +1,2 @@
+# SoftUniDemo
+Demo JS exercise
