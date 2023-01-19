@@ -1,2 +1,2 @@
 # SoftUniDemo
-Demo JS exercise
+Demo JS exercise Fundamentals 
